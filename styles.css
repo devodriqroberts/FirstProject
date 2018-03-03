@@ -1,0 +1,28 @@
+.ct-bg {
+  background: lightgrey;
+  width:80%;
+}
+.img-content {
+  background: #fff;
+  width: 90%;
+  margin: auto;
+}
+.main-photo {
+  display: block;
+  margin: auto;
+  width:100%;
+  padding:5px;
+}
+.tlcontainer,
+time-line {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.time-line,
+.quote {
+  width: 60%;
+}
+.quote-width {
+  width: 100%;
+}
